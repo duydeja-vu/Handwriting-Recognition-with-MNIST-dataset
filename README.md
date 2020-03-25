@@ -6,7 +6,7 @@ Group's members including:
 2. Le Minh Tin, 2017603337
 3. Tran Duc Linh, 2017603151
 
-We build a CNN model, training and testing with MNIST dataset with the accuracy is 99% after 10 epochs.
+We build a CNN model, training and testing with MNIST dataset and the accuracy is 99% after 10 epochs.
 
 To run this code in Ubuntu Linux, follow the instruction below:
 1. > git clone https://github.com/duydeja-vu/Handwriting-Recognition-with-MNIST-dataset.git
