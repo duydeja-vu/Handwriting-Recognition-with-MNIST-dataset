@@ -13,3 +13,6 @@ To run this code in Ubuntu Linux, follow the instruction below:
 2. > cd Handwriting-Recognition-with-MNIST-dataset
 3. > python3 main.py
 
+For any questions, contact with me via: duybarca99@gmail.com
+
+
